@@ -3,4 +3,9 @@
     <string name="home">Home</string>
     <string name="about">About Us</string>
     <string name="contact">Contact Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homeFragment">Home Fragment</string>
+    <string name="contactFragment">Contact Fragment</string>
+    <string name="aboutFragment">About Fragment</string>
 </resources>
